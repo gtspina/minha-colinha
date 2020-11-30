@@ -39,7 +39,7 @@ rspec -t soma
 ```
 
 ## Interpolando variáveis em string:
-"Olá #{nome_da_variavel}" válido\  
+"Olá #{nome_da_variavel}" válido\
 'Olá #{nome_da_variavel}' inválido\
 É necessário usar aspas duplas para interpolar strings
 
