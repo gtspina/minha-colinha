@@ -39,13 +39,13 @@ rspec -t soma
 ```
 
 ## Interpolando variáveis em string:
-"Olá #{nome_da_variavel}" válido
-'Olá #{nome_da_variavel}' inválido
+"Olá #{nome_da_variavel}" válido\  
+'Olá #{nome_da_variavel}' inválido\
 É necessário usar aspas duplas para interpolar strings
 
 ## Possíveis erros
 
-## "Process failed: spawn rdebug-ide.bat ENOENT"
+### "Process failed: spawn rdebug-ide.bat ENOENT"
 Executar:
 ```
 gem install ruby-debug-ide
