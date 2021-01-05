@@ -45,7 +45,12 @@ docker images
 
 ### Remover imagens
 ```
-docker rmi nome-imagem
+docker rmi id-imagem
+```
+
+### Criar imagem
+```
+docker build -t my-project:1.0 .
 ```
 
 ## Links úteis
