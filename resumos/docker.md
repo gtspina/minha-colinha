@@ -1,5 +1,13 @@
 # Docker
 
+## Versões no Windows
+
+### Docker CE
+Necessita do Windows Pro 64 bit e virtualização ativa
+
+### Docker Toolbox:
+Recomendado para casos em que os requisitos do Docker CE não foram atendidos, mais pesado que o primeiro
+
 ## Comandos úteis
 
 ### Criar/executar container
