@@ -97,9 +97,9 @@ docker build -t my-project:1.0 .
 ```
 
 ## Links úteis
-Minicurso Docker - Conteinerizando uma aplicação ASP.NET Core MVC: https://www.youtube.com/watch?v=rqBWvco0i_Y
-Imagens Docker para .NET Core: https://hub.docker.com/_/microsoft-dotnet-aspnet
-docker run with --interactive and --tty flag: https://stackoverflow.com/questions/59965032/docker-run-with-interactive-and-tty-flag
-What does it mean to attach a tty/std-in-out to dockers or lxc?: https://stackoverflow.com/questions/22272401/what-does-it-mean-to-attach-a-tty-std-in-out-to-dockers-or-lxc
-Configurações do Firewall do Windows para permitir que o Docker for Windows compartilhe a unidade: https://qastack.com.br/programming/42203488/settings-to-windows-firewall-to-allow-docker-for-windows-to-share-drive
-Absolute paths change with git bash on windows: https://github.com/moby/moby/issues/24029
+Minicurso Docker - Conteinerizando uma aplicação ASP.NET Core MVC: https://www.youtube.com/watch?v=rqBWvco0i_Y  
+Imagens Docker para .NET Core: https://hub.docker.com/_/microsoft-dotnet-aspnet  
+docker run with --interactive and --tty flag: https://stackoverflow.com/questions/59965032/docker-run-with-interactive-and-tty-flag  
+What does it mean to attach a tty/std-in-out to dockers or lxc?: https://stackoverflow.com/questions/22272401/what-does-it-mean-to-attach-a-tty-std-in-out-to-dockers-or-lxc  
+Configurações do Firewall do Windows para permitir que o Docker for Windows compartilhe a unidade: https://qastack.com.br/programming/42203488/settings-to-windows-firewall-to-allow-docker-for-windows-to-share-drive  
+Absolute paths change with git bash on windows: https://github.com/moby/moby/issues/24029  
