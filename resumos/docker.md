@@ -1,5 +1,8 @@
 # Docker
 
+## Em poucas palavras
+Resolve o problema de "na minha máquina funciona"
+
 ## Versões no Windows
 
 ### Docker CE
