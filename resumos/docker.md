@@ -64,6 +64,11 @@ docker inspect id-container
 docker run -d -v "C:\Users\teste-docker:/var/www" -w "/var/www" node npm start
 ```
 
+### Iniciar container, criar apelido e relacionar com rede interna
+```
+docker run -it --name meu-container --network minha-rede ubuntu
+```
+
 ### Remover container
 ```
 docker rm id-container
@@ -82,6 +87,11 @@ docker rm $(docker ps -aq -f ancestor=id-imagem)
 ### Mostrar todos os cantainers (mesmo inativos)
 ```
 docker ps -a
+```
+
+### Criar nova rede
+```
+docker network create --driver bridge minha-rede
 ```
 
 ### Mostar imagens baixadas
